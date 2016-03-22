@@ -1,0 +1,19 @@
+title,Welcome!
+|label,lbl1,Welcome to testuigen
+|break,false
+|label,lbl2,Username:
+|textbox,txt1,false
+|label,lbl3,Password:
+|textbox,txt2,true
+|button,login,Login
+|button,signup,Signup
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|label,lbl3,Room for a scrollbar is automatically added in
+|label,lbl4,This page is fetched from:
+|label,lbl4,https://raw.githubusercontent.com/isaacrg/vb-ui/gh-pages/pages/home-page-1.txt
